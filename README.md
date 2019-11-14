@@ -14,6 +14,7 @@ At this moment, the component is really basic and not much customizable.
 <img src="https://github.com/Seishin/react-native-ui-segmented-controller/raw/master/Example/screenshots/demo.gif" width="400" />
 
 <br />
+<br />
 
 ## Installation
 
@@ -26,6 +27,8 @@ yarn add react-native-ui-segmented-controller
 ```shell
 yarn add react-native-gesture-handler react-native-reanimated
 ```
+
+⚠️ You need to configure the <a href="https://kmagiera.github.io/react-native-gesture-handler/docs/getting-started.html">react-native-gesture-handler</a> and <a href="https://software-mansion.github.io/react-native-reanimated/getting-started.html">react-native-reanimated</a> native libs.
 
 <br />
 
@@ -55,6 +58,7 @@ const App = () => {
 | ----------------- | ----------------------------------------- | ------------- | -------- |
 | onSegmentSelected | Callback function when a item is selected | (index) => {} | function |
 
+<br />
 <br />
 
 ## 👏 How to Contribute
