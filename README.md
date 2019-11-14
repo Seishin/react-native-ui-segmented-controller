@@ -13,10 +13,18 @@ At this moment, the component is really basic and not much customizable.
 
 <img src="https://github.com/Seishin/react-native-ui-segmented-controller/raw/master/Example/screenshots/demo.gif" width="400" />
 
+<br />
+
 ## Installation
 
 ```shell
 yarn add react-native-ui-segmented-controller
+```
+
+### Then install these two packages
+
+```shell
+yarn add react-native-gesture-handler react-native-reanimated
 ```
 
 <br />
