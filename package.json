@@ -1,0 +1,40 @@
+{
+  "name": "react-native-ui-segmented-controller",
+  "version": "1.0.0",
+  "description": "Simple React Native Segmented Controller View for Android & iOS",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-file index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seishin/react-native-ui-segmented-controller.git"
+  },
+  "keywords": [
+    "segmented",
+    "segmented",
+    "control",
+    "react",
+    "react",
+    "native",
+    "android",
+    "ios"
+  ],
+  "author": "Atanas Dimitrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Seishin/react-native-ui-segmented-controller/issues"
+  },
+  "homepage": "https://github.com/Seishin/react-native-ui-segmented-controller#readme",
+  "peerDependencies": {
+    "react": "^16.11.0",
+    "react-native": "^0.61.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0"
+  }
+}
