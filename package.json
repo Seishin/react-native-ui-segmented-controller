@@ -1,6 +1,6 @@
 {
   "name": "react-native-ui-segmented-controller",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple React Native Segmented Controller View for Android & iOS",
   "main": "index.js",
   "scripts": {
