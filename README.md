@@ -9,7 +9,7 @@ At this moment, the component is really basic and not much customizable.
 
 ## Demo
 
-<img src="https://github.com/eishin/react-native-ui-segmented-controller/blob/master/example/screenshots/demo.gif" width="400" />
+<img src="https://github.com/Seishin/react-native-ui-segmented-controller/blob/master/Example/screenshots/demo.gif" width="400" />
 
 ## Installation
 
