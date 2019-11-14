@@ -7,15 +7,19 @@ Works on Android & iOS.
 
 At this moment, the component is really basic and not much customizable.
 
+<br />
+
 ## Demo
 
-<img src="https://github.com/Seishin/react-native-ui-segmented-controller/blob/master/Example/screenshots/demo.gif" width="400" />
+<img src="https://github.com/Seishin/react-native-ui-segmented-controller/raw/master/Example/screenshots/demo.gif" width="400" />
 
 ## Installation
 
 ```shell
 yarn add react-native-ui-segmented-controller
 ```
+
+<br />
 
 ## Usage
 
@@ -35,11 +39,15 @@ const App = () => {
 };
 ```
 
+<br />
+
 ## Props
 
 | Name              | Description                               | Default       | Type     |
 | ----------------- | ----------------------------------------- | ------------- | -------- |
 | onSegmentSelected | Callback function when a item is selected | (index) => {} | function |
+
+<br />
 
 ## 👏 How to Contribute
 
